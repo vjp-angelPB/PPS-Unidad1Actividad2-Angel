@@ -13,3 +13,4 @@ sudo apt install jupyterlab
 
 
 para ejecutar jupyter-lab
+al ejecutar el comando anterior se abrirá jupyter-lab en un navegador
