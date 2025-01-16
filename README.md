@@ -7,7 +7,7 @@ sudo apt-get update
 
 sudo apt install python3
 
-sudo apt install pip
+sudo apt install pip (en mi caso ya lo tenía instalado)
 
 sudo apt install jupyterlab
 
