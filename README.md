@@ -40,16 +40,16 @@ Puedes encontrar más información sobre los primeros pasos de [Jupyter notebook
 
 A continuación, listo varios enlaces para aprender python:
 
-> [https://docs.python.org/3.10/contents.html](https://docs.python.org/3.10/contents.html)
+* [https://docs.python.org/3.10/contents.html](https://docs.python.org/3.10/contents.html)
 
-> [https://uniwebsidad.com/libros/python/capitulo-2/elementos-del-lenguaje](https://uniwebsidad.com/libros/python/capitulo-2/elementos-del-lenguaje)
+* [https://uniwebsidad.com/libros/python/capitulo-2/elementos-del-lenguaje](https://uniwebsidad.com/libros/python/capitulo-2/elementos-del-lenguaje)
 
-> [https://protegermipc.net/2019/05/22/libro-python-basico-para-hackers-y-pentester](https://protegermipc.net/2019/05/22/libro-python-basico-para-hackers-y-pentester)
+* [https://protegermipc.net/2019/05/22/libro-python-basico-para-hackers-y-pentester](https://protegermipc.net/2019/05/22/libro-python-basico-para-hackers-y-pentester)
 
 En el siguiente enlace tienes el Cheatsheet sobre markdown para que lo utilices al documentar tu notebook de Jupyter: [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/). Recuerda que también tienes para ello una sección en el menú de ayuda de Jupyter.
 
 Objetivos: 
-> Crea un notebook en Jupyter documentando la creación de un módulo en python que nos defina funciones a la que pasamos dos números enteros y nos devuelve el resultado. Las funciones tendrán los siguientes nombres y calcularán:
+* Crea un notebook en Jupyter documentando la creación de un módulo en python que nos defina funciones a la que pasamos dos números enteros y nos devuelve el resultado. Las funciones tendrán los siguientes nombres y calcularán:
 
   * suma: Suma de dos números.
   * resta; Resta de dos números
